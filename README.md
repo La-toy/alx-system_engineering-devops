@@ -1,1 +1,1 @@
-This repo is for all System Engineering DevOps Projects
+Writing scripts for user Betty and groups
