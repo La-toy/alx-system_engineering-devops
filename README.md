@@ -1,1 +1,1 @@
-Writing scripts for user Betty and groups
+Writing executable bash scripts!
