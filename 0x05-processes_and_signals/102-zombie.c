@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-# Displays what a zombie process is.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
